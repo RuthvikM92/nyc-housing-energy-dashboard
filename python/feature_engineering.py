@@ -13,7 +13,7 @@ construction_era     – Building age bucket (Pre-1940, 1940-1979, 1980-1999, 20
 potential_savings_k  – Estimated kBtu savings (thousands) if brought to 75 EUI baseline
 size_category        – Small / Medium / Large / Very Large by floor area
 
-Author : Ruthvik Mandala
+Author : Ruthvik Meka
 """
 
 import pandas as pd
