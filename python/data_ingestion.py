@@ -5,7 +5,7 @@ Fetches NYC Local Law 84 (LL84) Benchmarking data from the NYC Open Data API
 (Socrata), performs initial cleaning, and saves a standardized CSV for
 downstream feature engineering.
 
-Author : Ruthvik Mandala
+Author : Ruthvik Meka
 Source : https://data.cityofnewyork.us/resource/vdzd-yy49.json
 """
 
