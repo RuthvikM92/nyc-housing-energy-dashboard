@@ -1,6 +1,6 @@
 -- ============================================================
 -- NYC Affordable Housing Energy Efficiency Analysis
--- Author: Ruthvik Mandala
+-- Author: Ruthvik Meka
 -- Description: Core SQL queries for borough-level EUI analysis,
 --              benchmarking, and retrofit prioritization
 -- ============================================================
