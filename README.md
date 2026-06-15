@@ -224,5 +224,5 @@ See [`docs/data_dictionary.md`](docs/data_dictionary.md) for full field definiti
 
 ## 👤 Author
 
-**Ruthvik Mandala** — Data Analyst | IBM  
-[LinkedIn](https://www.linkedin.com/in/ruthvik-mandala) · [GitHub](https://github.com/RuthvikM92)
+**Ruthvik Meka** — Data Analyst | IBM  
+[LinkedIn](https://www.linkedin.com/in/ruthvikmeka/) · [GitHub](https://github.com/RuthvikM92)
